@@ -21,3 +21,7 @@ function handleRange(){
     value = range.value;
     render()
 }
+
+
+
+
